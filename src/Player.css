@@ -1,0 +1,9 @@
+.player__body {
+    display: flex;
+    flex-grow: 1;
+}
+
+.palyer {
+    display: flex;
+    flex-direction: column;
+}
